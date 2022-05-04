@@ -1,0 +1,192 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(3,4,94);
+}
+
+.caixa1{
+  width: 500px;
+  height:50px;
+  background-image: url(https://41446.cdn.simplo7.net/static/41446/sku/dohler-teksana-patinhas-fundo-azul--p-1603920132746.jpg);
+  text-align: center;
+  margin: auto;
+  border-radius: 25px;
+}
+.caixa1 p{
+  display: inline; 
+  margin-left: 30px;
+  
+}
+p{
+  color: blue;
+  background: rgb(176,224,230);
+  border-radius: 25px;
+  transition: 0.5s all;
+  text-shadow: 0px 2px rgb(220,220,220);
+}
+.caixa1 p:hover{
+  color: rgb(224,255,255);
+  cursor: pointer;
+}
+
+h1{
+  background: rgb(175,238,238);
+  width: 120px;
+  text-align: center;
+  border-radius: 50px;
+  color: rgb(70,130,180);
+  margin: auto;
+}
+.titleprin{
+  height: 60px;
+}
+.titulosobre{
+  background: rgb(175,238,238);
+  width: 120px;
+  text-align: center;
+  border-radius: 50px;
+  color: rgb(70,130,180);
+  margin: auto;
+  font-family: Univers;
+  margin-top: 20px;
+}
+.descriç p{
+ background: rgb(3,4,94);
+ color: rgb(202, 240, 248);
+ text-shadow: 0px 2px rgb(0,0,0);
+ text-align: center;
+ font-family: Univers;
+}
+.descriç{
+  height: 150px;
+  margin-top: 30px
+}
+.fundador img{
+  width: 150px;
+  transition: 1s all;
+  border-radius: 50px;
+  margin: auto;
+  display: block;
+  
+  
+}
+.fundador img:hover{
+ border-radius: 100px;
+ transform: scale(1.2);}
+ 
+
+figcaption{
+  color: rgb(0, 150, 199);
+  text-shadow: 1px 1px rgb(144, 224, 239);
+  text-align: center;
+}
+
+.titledoa h2{
+  background-image: url(https://i.pinimg.com/564x/13/bf/20/13bf20b3654ef93efacd1a4f46f4c821.jpg);
+  width: 180px;
+  text-align: center;
+  border-radius: 50px;
+  color: rgb(144, 224, 239);
+  margin: auto;
+  font-family: Univers;
+  margin-top: 60px;  
+}
+
+.Hera{
+  width: 210px;
+  display: inline-block;
+  border-radius: 50px;
+  overflow: hidden;
+  margin-top: 50px;
+  margin-left: 180px;
+  background: rgb(175,238,238);
+}
+.Perseu{
+  width: 210px;
+  display: inline-block;
+  border-radius: 50px;
+  overflow: hidden;
+  margin-top: 50px;
+  margin-left: 50px;
+  background: rgb(175,238,238);
+}
+.Ajax{
+  width: 210px;
+  display: inline-block;
+  border-radius: 50px;
+  overflow: hidden;
+  margin-top: 50px;
+  margin-left: 50px;
+  background: rgb(175,238,238);
+}
+.Ajax img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: 5px;
+  margin-top: 5px;
+  border-radius: 50px;
+  
+}
+.Perseu img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: 5px;
+  margin-top: 5px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.Hera img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: 5px;
+  margin-top: 5px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+button{
+  height: 35px;
+  margin-left: 53px;
+  background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p2/2723528-fundo-azul-geometrico-abstrato-vetor.jpg);
+  width: 100px;
+  text-align: center;
+  border-radius: 50px;
+  color: rgb(0,0,0);
+  font-family: Impact;
+  margin-top: 10px;
+  text-shadow: 1px 1px rgb(202, 240, 248);
+  cursor: pointer;
+  border: none;
+}
+button:hover{
+ margin-left: 55px;
+ background: rgb(240,248,255);
+}
+
+footer{
+  background-image: url(https://i.pinimg.com/originals/1a/d5/be/1ad5becf5d94648a20aabfb93f439a50.jpg);
+  text-align: center;
+  font-family: Candara;
+   
+}
+.principal{
+  height: 500px;
+  display: inline-block;
+  margin: auto;
+  margin-left: 135px;
+}
+.endereç h3{
+  color: rgb(240,248,255);
+}
+.endereç p{
+  background: rgb(3,4,94);
+  color: rgb(240,248,255);
+  text-shadow: none;
+}
+
